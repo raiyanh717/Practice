@@ -1,12 +1,7 @@
 import java.util.*;
 
-//Name of the program: Public class Salon
+//Name of the program: Public Class Salon
 //Author Name: Raiyan Hossain
-//ID #: 31471597 UCID: rh376
-//IT 114-452
-//Professor Deek
-//Assignment #1
-//Date: 2/19/21
 //The algorithm is as the prompt states. It asks for user information for the client which then puts it into the stylists array for each one that is already in the system. 
 //From there the user (client) is asked if they want to put their information in all of the stylists array or just the ones that they want for their appointment. 
 
